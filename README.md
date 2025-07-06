@@ -1,6 +1,6 @@
 # 🏥 Predicting Hospital Readmissions for Diabetic Patients
 
-This project aims to predict whether diabetic patients will be readmitted to the hospital within 30 days using machine learning models. The analysis is based on the [Diabetes 130-US hospitals for years 1999–2008 dataset](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008) from the UCI Machine Learning Repository.
+This project aims to predict whether diabetic patients will be readmitted to the hospital within 30 days using machine learning models. The analysis is based on from the UCI Machine Learning Repository.
 
 ---
 
@@ -16,8 +16,6 @@ Hospital readmissions are costly and often preventable. The goal of this project
 - **Records**: ~100,000 patient encounters  
 - **Features**: Demographic, clinical, and hospitalization data  
 - **Target Variable**: `readmitted` (whether the patient was readmitted within 30 days)
-
-🔗 [Dataset Link](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)
 
 ---
 
